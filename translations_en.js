@@ -27,7 +27,7 @@ const lang_en = {
     "p1": "The <strong>Turkic Olympiad in Artificial Intelligence</strong> is the flagship academic competition for students and researchers from Turkic-speaking nations — spanning Türkiye, Azerbaijan, Kazakhstan, Kyrgyzstan, Uzbekistan, Turkmenistan, Hungary and the wider Turkic diaspora.",
     "p2": "Participants tackle real-world problems in machine learning, computer vision, natural language processing, and robotics — judged by a panel of world-renowned academics and industry leaders.",
     "p3": "Beyond competition, TOAI is a platform for scientific exchange, mentorship, and the cultivation of a pan-Turkic AI research community that can compete and collaborate at the highest global levels.",
-    "p4": "The <strong>2026 edition</strong>, hosted in İstanbul, marks the most ambitious edition yet — with expanded tracks, an industry exhibition, and a new junior category for students under 18."
+    "p4": "The <strong>2026 edition</strong>, hosted in İstanbul, marks the most ambitious edition yet — with expanded tracks, an industry exhibition, and a new junior category for students under 20."
   },
   "syllabus": {
     "label": "Syllabus",

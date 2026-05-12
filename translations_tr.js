@@ -27,7 +27,7 @@ const lang_tr = {
     "p1": "<strong>Türk Yapay Zeka Olimpiyatı</strong>, Türkçe konuşan uluslardan — Türkiye, Azerbaycan, Kazakistan, Kırgızistan, Özbekistan, Türkmenistan, Macaristan ve daha geniş Türk diasporasından — öğrenciler ve araştırmacılar için amiral gemisi akademik yarışmadır.",
     "p2": "Katılımcılar, makine öğrenimi, bilgisayarlı görü, doğal dil işleme ve robotik alanlarındaki gerçek dünya problemlerini çözerler — dünyaca ünlü akademisyenler ve sektör liderlerinden oluşan bir jüri tarafından değerlendirilirler.",
     "p3": "Yarışmanın ötesinde, TOAI bilimsel değişim, mentörlük ve en yüksek küresel düzeyde rekabet edebilecek ve işbirliği yapabilecek bir pan-Türk yapay zeka araştırma topluluğunun yetiştirilmesi için bir platformdur.",
-    "p4": "İstanbul'da düzenlenen <strong>2026 edisyonu</strong>, genişletilmiş parkurlar, bir endüstri sergisi ve 18 yaş altı öğrenciler için yeni bir genç kategorisi ile şimdiye kadarki en iddialı edisyonu işaret ediyor."
+    "p4": "İstanbul'da düzenlenen <strong>2026 edisyonu</strong>, genişletilmiş parkurlar, bir endüstri sergisi ve 20 yaş altı öğrenciler için yeni bir genç kategorisi ile şimdiye kadarki en iddialı edisyonu işaret ediyor."
   },
   "syllabus": {
     "label": "Müfredat",
@@ -53,7 +53,7 @@ const lang_tr = {
     "day1_title": "Varış ve Akreditasyon, Açılış Töreni",
     "day1_body": "Delegasyon kaydı, kimlik doğrulama, kit dağıtımı, resmi açılış ve katılımcı oryantasyonu.",
     "day2_title": "Yarışma I. Turu",
-    "day2_body": "2 ila 3 karmaşık görev içeren altı saatlik yoğun bir programlama turu. Katılımcılar, önceden belirlenmiş bir yazılım ortamında verileri analiz etmeli ve algoritmik çözümler geliştirmelidir.",
+    "day2_body": "2 ila 3 karmaşık görev içeren altı saatlik yoğun bir pro gramlama turu. Katılımcılar, önceden belirlenmiş bir yazılım ortamında verileri analiz etmeli ve algoritmik çözümler geliştirmelidir.",
     "day3_title": "Kültürel ve Akademik Program",
     "day3_body": "Türk dünyasında köprüler kuran çalıştaylar, kampüs turları, ağ oluşturma ve kültürel değişim.",
     "day4_title": "Yarışma II. Turu",

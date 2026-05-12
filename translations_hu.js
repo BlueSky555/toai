@@ -27,7 +27,7 @@ const lang_hu = {
     "p1": "A <strong>Török Mesterséges Intelligencia Olimpia</strong> a kiemelt akadémiai verseny a török nyelvű nemzetek — köztük Törökország, Azerbajdzsán, Kazahsztán, Kirgizisztán, Üzbegisztán, Türkmenisztán, Magyarország és a tágabb török diaszpóra — diákjai és kutatói számára.",
     "p2": "A résztvevők valós problémákat oldanak meg a gépi tanulás, a számítógépes látás, a természetes nyelvfeldolgozás és a robotika területén — neves akadémikusokból és iparági vezetőkből álló zsűri előtt.",
     "p3": "A versenyen túl a TOAI a tudományos csere, a mentorálás és egy olyan pán-török MI-kutatói közösség kialakításának platformja, amely a legmagasabb globális szinteken is képes versenyezni és együttműködni.",
-    "p4": "A <strong>2026-os kiadás</strong>, amelynek Isztambul ad otthont, az eddigi legambiciózusabb kiadás — kibővített témakörökkel, iparági kiállítással és egy yeni, 18 év alattiaknak szóló ifjúsági kategóriával."
+    "p4": "A <strong>2026-os kiadás</strong>, amelynek Isztambul ad otthont, az eddigi legambiciózusabb kiadás — kibővített témakörökkel, iparági kiállítással és egy yeni, 20 év alattiaknak szóló ifjúsági kategóriával."
   },
   "syllabus": {
     "label": "Tanterv",
