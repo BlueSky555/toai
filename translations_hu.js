@@ -90,7 +90,7 @@ const lang_hu = {
   "accreditation": {
     "eyebrow": "Akkreditáció Nyitva · TOAI 2026 · Isztambul",
     "title": "Hivatalos Akkreditáció\n<em>Csatlakozz a TOAI hálózathoz.</em>",
-    "sub": "Akár kutató, küldött vagy média képviselő vagy, a TOAI 2026 a te arénád. Töltsd ki az akkreditációt a korai határidő előtt a prioritás és a forrásokhoz való teljes hozzáférés érdekében.",
+    "sub": "Hivatalos érdeklődési nyilatkozat és akkreditációs űrlap minisztériumok, egyetemek és középfokú oktatási hatóságok számára, amelyek hallgatói delegációt (max. 4 résztvevő) kívánnak regisztrálni a 2026-os Türk Mesterséges Intelligencia Olimpiára (TOAI). Kérjük, a határidő előtt végezze el intézményi akkreditációját.",
     "btn": "Akkreditációs Űrlap →"
   },
   "organization": {

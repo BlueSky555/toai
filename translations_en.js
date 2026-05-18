@@ -90,7 +90,7 @@ const lang_en = {
   "accreditation": {
     "eyebrow": "Accreditation Open · TOAI 2026 · İstanbul",
     "title": "Official Accreditation\n<em>Join the TOAI network.</em>",
-    "sub": "Whether you are a researcher, delegate, or media representative, TOAI 2026 is your arena. Complete your accreditation before the early deadline for priority consideration and full access to resources.",
+    "sub": "Official Expression of Interest and Accreditation Form for ministries, universities, and secondary education authorities seeking to register a student delegation (Max. 4 participants) for the Turkic Olympiad in AI (TOAI) 2026. Please complete your institutional accreditation before the deadline.",
     "btn": "Accreditation Form →"
   },
   "organization": {

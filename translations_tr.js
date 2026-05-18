@@ -90,7 +90,7 @@ const lang_tr = {
   "accreditation": {
     "eyebrow": "Akreditasyon Açık · TOAI 2026 · İstanbul",
     "title": "Resmi Akreditasyon\n<em>TOAI ağına katılın.</em>",
-    "sub": "İster araştırmacı, ister delege, ister medya temsilcisi olun, TOAI 2026 sizin arenanızdır. Öncelikli değerlendirme ve kaynaklara tam erişim için akreditasyonunuzu erken son tarihten önce tamamlayın.",
+    "sub": "TOAI 2026'ya öğrenci delegasyonu (Maks. 4 katılımcı) kaydetmek isteyen bakanlıklar, üniversiteler ve ortaöğretim kurumları için Resmi İlgi Beyanı ve Akreditasyon Formu. Lütfen kurumsal akreditasyonunuzu son tarihten önce tamamlayın.",
     "btn": "Akreditasyon Formu →"
   },
   "organization": {
